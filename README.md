@@ -9,3 +9,8 @@ fuzz_buzz :
     else print n[i]
     
  
+ Reverse_string :
+    reverse the input string
+    enter the string
+    Input >> this is optimus Prime
+    Output >> emir Ps umitpos isiht
