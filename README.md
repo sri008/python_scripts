@@ -14,3 +14,9 @@ fuzz_buzz :
     enter the string
     Input >> this is optimus Prime
     Output >> emir Ps umitpos isiht
+
+ Reverse_sequence_of_number :
+    Reverse the sequesnce of number
+    Input >> 12345
+    Output >> 54321
+              34512
